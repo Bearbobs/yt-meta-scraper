@@ -3,7 +3,7 @@ import pafy
 # url of video 
 url = "https://www.youtube.com/watch?v=auJWhRCcZSM"
   
-# instant created 
+# Object created 
 video = pafy.new(url) 
   
 # print title 
