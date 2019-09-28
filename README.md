@@ -30,6 +30,7 @@ python3 metadata-script.py
 ## Basic Usage:
 
 It can be used to extract out data from youtube videos.
+
 *change the url parameter for different links
 
 Save the output in a Text File:-
@@ -42,7 +43,7 @@ python3 metadata-script.py > output.txt
 
 ## Authors
 
-* **Anuj Kapoor** - *Initial work* - [PurpleBooth](https://github.com/bearbobs)
+* **Anuj Kapoor** - *Initial work* - [BearBobs](https://github.com/bearbobs)
 
 
 [0]: https://www.python.org/
