@@ -31,7 +31,7 @@ python3 metadata-script.py
 
 It can be used to extract out data from youtube videos.
 
-*change the url parameter for different links
+*change the url parameter for different links*
 
 Save the output in a Text File:-
 
